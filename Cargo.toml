@@ -1,0 +1,6 @@
+[workspace]
+members = [ 
+    "example",
+    "terminal-detection",
+]
+resolver = "2"
