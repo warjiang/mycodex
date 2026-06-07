@@ -4,3 +4,8 @@ members = [
     "terminal-detection",
 ]
 resolver = "2"
+[workspace.package]
+
+
+[workspace.dependencies]
+tracing = "0.1.44"
